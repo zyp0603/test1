@@ -1,0 +1,71 @@
+body{
+    background: black;
+}
+
+.box{
+    width: 2rem;
+    height: 2rem;
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 0.1rem;
+}
+
+.a{
+    width: 1rem;
+    height: 1rem;
+    background: red;
+    border-radius: 50%;
+}
+
+.b{
+    width: 0.6rem;
+    height: 0.6rem;
+    background: blue;
+    border-radius: 50%;
+}
+
+.b1{
+    margin-bottom: 0.5rem;
+}
+
+.box3_1{
+    width: 1.6rem;
+    height: 0.5rem;
+}
+
+.c{
+    width: 0.5rem;
+    height: 0.5rem;
+    background: blue;
+    border-radius: 50%;
+}
+
+.box4_1{
+    width: 1.6rem;
+}
+
+.d{
+    width: 0.5rem;
+    height: 0.5rem;
+    background: red;
+    border-radius: 50%;
+}
+
+.box4_2{
+    margin-bottom: 0.6rem;
+}
+
+.e{
+    width: 0.5rem;
+    height: 0.5rem;
+    background: blue;
+    border-radius: 50%;
+}
+
+.f{
+    margin-right: 0.1rem;
+}
+
+.box6_1{
+    margin-bottom: 0.2rem;
+}
